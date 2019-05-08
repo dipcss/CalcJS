@@ -30,7 +30,7 @@ body{
     display: flex;
     flex-wrap: wrap;
 }
-#result {
+#result{
    display: flex;
     justify-content: flex-end;
     align-items: center;
@@ -43,6 +43,7 @@ text-align: right;
     color: #838383;
     background: #363636; 
 }
+
 button {
     font-family: 'Roboto Condensed', sans-serif;
     font-weight: 300;
